@@ -1,3 +1,6 @@
+--DEPRECATED AND PENDING REMOVAL
+--USE CPM DEVMGMT PACKAGE INSTEAD
+
 term.setBackgroundColor(colors.black)
 term.setTextColor(colors.white)
 term.clear()

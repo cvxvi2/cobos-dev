@@ -1,3 +1,5 @@
+--DEPRECATED AND PENDING REMOVAL
+--USE CPM DEVMGMT PACKAGE INSTEAD
 
 function makeDFTable(Location)
     if fs.isDir(Location) then
