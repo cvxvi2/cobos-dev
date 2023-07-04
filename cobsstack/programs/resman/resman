@@ -1,0 +1,2 @@
+local x,y = term.getSize()
+print("Console Display: "..x.."x"..y)
